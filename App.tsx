@@ -175,8 +175,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#fafafa",
     paddingHorizontal: 16,
   },
-  topo:{
-    alignItems:'center'
+  topo: {
+    alignItems: 'center'
   },
   logo: {
     width: 260,
@@ -206,7 +206,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 14,
     height: 44,
     borderWidth: 1,
-    borderColor: "#e3e8ef",
+    borderColor: "#1c5dbeff",
   },
   addBtn: {
     height: 44,
@@ -216,7 +216,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     borderWidth: 1,
-    borderColor: "#e3e8ef",
+    borderColor: "#1c5dbeff",
   },
   counter: {
     marginTop: 10,
@@ -232,14 +232,14 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
     marginVertical: 6,
     borderWidth: 1,
-    borderColor: "#e3e8ef",
+    borderColor: "#1c5dbeff",
   },
   checkbox: {
     height: 22,
     width: 22,
     borderRadius: 11,
     borderWidth: 2,
-    borderColor: "#d1d5db",
+    borderColor: "#1c5dbeff",
     alignItems: "center",
     justifyContent: "center",
     marginRight: 10,
