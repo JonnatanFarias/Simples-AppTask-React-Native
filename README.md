@@ -8,7 +8,7 @@
 ## Usage
 
 ```sh
-npm run start
+npm expo start
 ```
 
 ## Author
